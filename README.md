@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning SQL and Spreadsheet formulas and functions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is by email @ darius0918@icloud.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love any and all types of code and computer work!
 
 <!---
