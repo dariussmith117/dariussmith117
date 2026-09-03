@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dariussmith117
-- 👀 I’m interested in working on data analyst projects 
-- 🌱 I’m currently learning SQL and Spreadsheet formulas and functions
+- 👀 I’m interested in working on software engineer projects 
+- 🌱 I’m currently learning all coding languages 
 - 💞️ I’m looking to collaborate on all types of projects from website creatation to server side work
 - 📫 How to reach me is by email @ darius0918@icloud.com
 - ⚡ Fun fact: I love any and all types of code and computer work!
